@@ -16,6 +16,8 @@ La plateforme  permettra d'`améliorer la qualité de vie` des personnes souffra
 
 - **HIMDANE** **F**atima **Z**ahra
 
+- **KERDOUDI** **H**ajar
+
   
 
 ## Supervised by
@@ -30,4 +32,4 @@ For more questions or feedbacks, please contact us by:
 
 - himdane.fatima.zahra@gmail.com
 - rajae121220barmani@gmail.com
-
+- hajarkerdoudi4@gmail.com
